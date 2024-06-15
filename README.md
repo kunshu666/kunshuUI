@@ -1,6 +1,6 @@
 return {
 ["ab_laoye"] = true,
-["SUBNN5"] = true,
+["g"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
