@@ -7,7 +7,7 @@ return {
 ["AKOM1472"] = true,
 ["jhc2015nb"] = true,
 ["qin_bikai"] = true,
-["用户名"] = true,
+["CWG400"] = true,
 ["ssjanajaj"] = true,
 ["HCL6666"] = true,
 ["2jgc557"] = true,
