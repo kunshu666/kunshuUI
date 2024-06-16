@@ -6,7 +6,7 @@ return {
 ["wcbfqhgwbegn"] = true,
 ["AKOM1472"] = true,
 ["jhc2015nb"] = true,
-["用户名"] = true,
+["qin_bikai"] = true,
 ["用户名"] = true,
 ["ssjanajaj"] = true,
 ["HCL6666"] = true,
