@@ -4,7 +4,7 @@ return {
 ["heyuxiao"] = true,
 ["qwe33669922"] = true,
 ["wcbfqhgwbegn"] = true,
-["用户名"] = true,
+["AKOM1472"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
