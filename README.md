@@ -42,7 +42,7 @@ return {
 ["a125257"] = true,
 ["wisjnsn64"] = true,
 ["GM_Hdedition"] = true,
-["wkv90"] = true,
+["friskurea"] = true,
 ["dudjxjx_4"] = true,
 ["XINGKONG001"] = true,
 ["qwertyu132i"] = true,
