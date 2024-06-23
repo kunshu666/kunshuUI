@@ -19,7 +19,7 @@ return {
 ["520Firsk"] = true,
 ["uheubgwubgw"] = true,
 ["1145_Joyful"] = true,
-["SUBNN5"] = true,
+["SU"] = true,
 ["15423po"] = true,
 ["licong6"] = true,
 ["phvvjji2"] = true,
